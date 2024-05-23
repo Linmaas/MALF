@@ -24,3 +24,13 @@ The output is 400/200, depending on the scope. This is not optimal, since both v
 
 ![alt text](01_main/img/03_main_functions_built.png)
 ![alt text](<01_main/img/Bildschirmfoto 2024-05-23 um 17.58.08.png>)
+
+main_add_headers_1
+
+![alt text](01_main/img/main_add_headers_1.png)
+
+![alt text](<01_main/img/Bildschirmfoto 2024-05-23 um 18.10.57.png>)
+
+main_add_headers_2
+
+![alt text](01_main/img/main_add_headers_2_error.png)
