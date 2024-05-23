@@ -46,3 +46,11 @@ Anna and Linda do code stuff!
 
 ![alt text](<02_types_vars/img/Bildschirmfoto 2024-05-23 um 17.06.53.png>)
 ![alt text](02_types_vars/img/scope.png)
+
+## vector
+
+we changed int with float 
+
+![alt text](<02_types_vars/img/Bildschirmfoto 2024-05-23 um 18.45.56.png>)
+
+![alt text](02_types_vars/img/vectors_anna_built.png)
