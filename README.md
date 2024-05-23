@@ -35,4 +35,8 @@ main_add_headers_2
 
 ![alt text](01_main/img/main_add_headers_2_error.png)
 
+main_makefile
+
 ![alt text](<01_main/img/Bildschirmfoto 2024-05-23 um 18.17.35.png>)
+
+![alt text](01_main/img/main_makefile.png)
