@@ -23,3 +23,4 @@ The output is 400/200, depending on the scope. This is not optimal, since both v
 03_main_functions
 
 ![alt text](01_main/img/03_main_functions_built.png)
+![alt text](<01_main/img/Bildschirmfoto 2024-05-23 um 17.58.08.png>)
