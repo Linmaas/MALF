@@ -1,4 +1,4 @@
-# Malf
+# MALF
 Anna and Linda do code stuff!
 
 ## Session 1
