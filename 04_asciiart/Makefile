@@ -1,3 +1,4 @@
+
 # This is a Makefile that helps us organizing the build process. Here we specify 
 # the components that are part of the build process, i.e. the include files, 
 # the object files, and the target that we are building together with the
@@ -14,21 +15,22 @@ CXX = g++
 CXXFLAGS = -std=c++17
 
 # Specify the path to any additional include files:
-#INC = -I  
+INC = -I ./include 
 
 # Specify the build target:
-TARGET = addition
+TARGET = animals
 
 
 # Specify the dependencies required to compile, link and build the target:
 
 # target : dependencies
 # 	command
-addition: # main.o add.o
-	$(CXX) $(CXXFLAGS) -o $(TARGET) main.o printAsciiart.o
+animals: # main.o add.o
+	$(CXX) $(CXXFLAGS) -o $(TARGET) main.o printAsciiArt.o
 
 main.o: main.cpp 
 	$(CXX) $(CXXFLAGS) $(INC) -c main.cpp
 
-printAsciiart.o: printAsciiart.cpp 
-	$(CXX) $(CXXFLAGS) $(INC) -c printAsciiart.cpp
+printAsciiArt.o: printAsciiArt.cpp 
+	$(CXX) $(CXXFLAGS) $(INC) -c printAsciiArt.cpp
+

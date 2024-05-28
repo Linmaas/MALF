@@ -1,13 +1,12 @@
 // Ascii Art example adapted from ChatGPT example
 
-
 #include <iostream>
 #include <vector>
 #include <string>
 #include "printAsciiArt.h"
 
-
-int main() {
+int main()
+{
 
     // user inputs
 
@@ -18,37 +17,34 @@ int main() {
 
     // Define the ASCII art
     std::vector<std::string> cat = {
-        "|\---/|" ,
+        "|\---/|",
         "| o_o |",
-        " \_^_/"   
-    };
+        " \_^_/"};
 
-      std::vector<std::string> dog = {
+    std::vector<std::string> dog = {
         "      __",
         " (___()'`;",
         " /,    /`",
-        " \\''--\\ "
-    };
+        " \\''--\\ "};
 
-      std::vector<std::string> frog = {
+    std::vector<std::string> frog = {
         "        _   _",
         "       (.)_(.)",
         "    _ (   _   ) _",
         "   / \/`-----'\/ \ ",
         " __\ ( (     ) ) /__",
         " )   /\ \._./ /\   (",
-        "  )_/ /|\   /|\ \_("
-    };
+        "  )_/ /|\   /|\ \_("};
 
-    if(animal == "cats")
+    if (animal == "cats")
     {
         printAsciiArt(cat);
     }
-    else if(animal == "dogs")
+    else if (animal == "dogs")
     {
         printAsciiArt(dog);
     }
-    else if(animal == "both")
+    else if (animal == "both")
     {
         printAsciiArt(frog);
     };
