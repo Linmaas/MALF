@@ -4,31 +4,54 @@
 #include <iostream>
 #include <vector>
 #include <string>
-
-
-// Function to print the ASCII art
-void printAsciiArt(const std::vector<std::string>& art) {
-
-    for (const std::string& line : art) {
-        std::cout << line << std::endl;
-    }
-}
+#include "printAsciiArt.h"
 
 
 int main() {
+
+    // user inputs
+
+    std::string animal;
+    std::cout << "What do you prefer: cats, dogs or both?: ";
+
+    std::cin >> animal;
+
     // Define the ASCII art
-    std::vector<std::string> smileyFace = {
-        "  *****  ",
-        " *     * ",
-        "*  O O  *",
-        "*   ^   *",
-        "* \\___/ *",
-        " *     * ",
-        "  *****  "
+    std::vector<std::string> cat = {
+        "|\---/|" ,
+        "| o_o |",
+        " \_^_/"   
     };
 
-    // Print the ASCII art
-    printAsciiArt(smileyFace);
+      std::vector<std::string> dog = {
+        "      __",
+        " (___()'`;",
+        " /,    /`",
+        " \\''--\\ "
+    };
+
+      std::vector<std::string> frog = {
+        "        _   _",
+        "       (.)_(.)",
+        "    _ (   _   ) _",
+        "   / \/`-----'\/ \ ",
+        " __\ ( (     ) ) /__",
+        " )   /\ \._./ /\   (",
+        "  )_/ /|\   /|\ \_("
+    };
+
+    if(animal == "cats")
+    {
+        printAsciiArt(cat);
+    }
+    else if(animal == "dogs")
+    {
+        printAsciiArt(dog);
+    }
+    else if(animal == "both")
+    {
+        printAsciiArt(frog);
+    };
 
     return 0;
 }
