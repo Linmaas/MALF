@@ -54,3 +54,9 @@ we changed int with float
 ![alt text](<02_types_vars/img/Bildschirmfoto 2024-05-23 um 18.45.56.png>)
 
 ![alt text](02_types_vars/img/vectors_anna_built.png)
+
+## ASII Art 
+
+![alt text](04_asciiart/img/ascii_Art.png)
+
+![alt text](04_asciiart/img/error.png)
