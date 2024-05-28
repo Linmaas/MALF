@@ -15,7 +15,7 @@ CXX = g++
 CXXFLAGS = -std=c++17
 
 # Specify the path to any additional include files:
-INC = -I ./include 
+# INC = -I ./include 
 
 # Specify the build target:
 TARGET = animals
@@ -29,8 +29,8 @@ animals: # main.o add.o
 	$(CXX) $(CXXFLAGS) -o $(TARGET) main.o printAsciiArt.o
 
 main.o: main.cpp 
-	$(CXX) $(CXXFLAGS) $(INC) -c main.cpp
+	$(CXX) $(CXXFLAGS)  -c main.cpp
 
 printAsciiArt.o: printAsciiArt.cpp 
-	$(CXX) $(CXXFLAGS) $(INC) -c printAsciiArt.cpp
+	$(CXX) $(CXXFLAGS)  -c printAsciiArt.cpp
 

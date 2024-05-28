@@ -60,3 +60,5 @@ we changed int with float
 ![alt text](04_asciiart/img/ascii_Art.png)
 
 ![alt text](04_asciiart/img/error.png)
+
+![alt text](04_asciiart/img/error_apple.png)
