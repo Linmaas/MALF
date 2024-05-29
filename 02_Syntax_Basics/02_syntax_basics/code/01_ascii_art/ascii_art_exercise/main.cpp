@@ -29,6 +29,15 @@ string      > this is the data type that takes care of combining sets of single 
 
 using namespace std;
 
+
+// Function to print the ASCII art to the console
+void printAsciiArt(const vector<string>& art) {
+    for (const string& line : art) {
+        cout << line << endl;
+    }
+}
+
+
 // Function to create the blinking effect
 void blinkingEyeEffect() {
     vector<string> faceOpenEye = {
@@ -54,20 +63,14 @@ void blinkingEyeEffect() {
     for (int i = 0; i < 10; ++i) { // Blink 10 times
         printAsciiArt(faceOpenEye);
         this_thread::sleep_for(chrono::milliseconds(500)); // Pause for 500 milliseconds
-        system("clear"); // Clear the console (for UNIX/Linux/macOS). Use "cls" for Windows
+        system("cls"); // Clear the console (for UNIX/Linux/macOS). Use "cls" for Windows
 
         printAsciiArt(faceClosedEye);
         this_thread::sleep_for(chrono::milliseconds(200)); // Pause for 200 milliseconds
-        system("clear"); // Clear the console (for UNIX/Linux/macOS). Use "cls" for Windows
+        system("cls"); // Clear the console (for UNIX/Linux/macOS). Use "cls" for Windows
     }
 }
 
-// Function to print the ASCII art to the console
-void printAsciiArt(const vector<string>& art) {
-    for (const string& line : art) {
-        cout << line << endl;
-    }
-}
 
 // Function to read ASCII art from a file
 vector<string> readAsciiArtFromFile(const string& filename) {
@@ -90,17 +93,36 @@ vector<string> readAsciiArtFromFile(const string& filename) {
 }
 
 int main() {
-    // Define the filename
-    string filename = "ascii_art.txt";
 
-    // Read the ASCII art from the file
-    vector<string> asciiArt = readAsciiArtFromFile(filename);
+    // user input 
 
-    // Print the ASCII art to the console
-    printAsciiArt(asciiArt);
+    std::string answer;
+    std::cout << "A) Do you want to read the ascii art file? or B) get a surprise?"; 
 
-    // Run the blinking eye effect
-    blinkingEyeEffect();
+    std::cin >> answer;
+
+    void checkAnswer(std::string answer){
+         if (answer == "A") {
+        // Define the filename
+        string filename = "ascii_art.txt";
+
+        // Read the ASCII art from the file
+        vector<string> asciiArt = readAsciiArtFromFile(filename);
+
+        // Print the ASCII art to the console
+        printAsciiArt(asciiArt);
+    }
+    else if (answer == "B") {
+        // Run the blinking eye effect
+        blinkingEyeEffect();
+    }
+    else {
+        std::cout << "Please enter A or B";
+        std::cin >> answer;
+        checkAnswer(answer);
+    }
+    }
+   
 
     return 0;
 }
