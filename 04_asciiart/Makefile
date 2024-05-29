@@ -25,7 +25,7 @@ TARGET = animals
 
 # target : dependencies
 # 	command
-animals: # main.o add.o
+animals:  main.o printAsciiArt.o
 	$(CXX) $(CXXFLAGS) -o $(TARGET) main.o printAsciiArt.o
 
 main.o: main.cpp 
