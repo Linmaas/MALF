@@ -18,6 +18,8 @@ string      > The string class data type that takes care of combining sets of si
 #include <iostream> 
 #include <vector>
 #include <string>
+#include <fstream>  
+
 
 
 // Function to print the ASCII art
