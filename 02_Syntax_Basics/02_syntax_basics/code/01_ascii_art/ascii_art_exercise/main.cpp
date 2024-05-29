@@ -101,8 +101,8 @@ int main() {
 
     std::cin >> answer;
 
-    void checkAnswer(std::string answer){
-         if (answer == "A") {
+
+    if (answer == "A") {
         // Define the filename
         string filename = "ascii_art.txt";
 
@@ -116,12 +116,7 @@ int main() {
         // Run the blinking eye effect
         blinkingEyeEffect();
     }
-    else {
-        std::cout << "Please enter A or B";
-        std::cin >> answer;
-        checkAnswer(answer);
-    }
-    }
+
    
 
     return 0;
