@@ -8,7 +8,7 @@ let floatingPoint = 70.6; // the counterpart in C++ is float
 let exponential = 0.30e4;  // the counterpart in C++ is double
 
 // Strings
-let name = 'Creative Coding'; // the counterpart in C++ is std::string 
+let name = 'Creative Coding'; // the counterpart in C++ is std::string
 let message = "Double quotes work too";
 
 // Arrays
@@ -23,3 +23,11 @@ let dog = {
     age: 10
 };
 //  in C++ we don't have a direct counterpart for dynamic objects
+//struct Dog {
+// std::string species;
+// double height;
+//double weight;
+//int age;
+//};
+
+//Dog dog = {"animal", 1.2, 13.3, 10};
