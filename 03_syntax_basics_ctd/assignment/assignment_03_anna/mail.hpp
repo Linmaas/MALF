@@ -11,4 +11,6 @@
 #include <stdio.h>
 int macmail();
 int winmail();
+void yesOrNo();
+void sendMail();
 #endif /* mail_hpp */

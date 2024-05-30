@@ -7,7 +7,7 @@
 #include <chrono>
 #include <cstdio> // For printf
 
-// #include "mail.hpp"
+#include "mail.hpp"
 
 using namespace std;
 
@@ -36,7 +36,7 @@ void heart(char letter)
         "             ***             \n"
         "              *              \n";
 
-    printf(  heartUser,  letter); // Print the heart with the first letter inserted
+    printf( heartUser,  letter); // Print the heart with the first letter inserted
 
 
 }

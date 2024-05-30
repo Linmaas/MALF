@@ -14,26 +14,12 @@
 #include "mail.hpp"
 #include "ascii.hpp"
 
+using namespace std;
 
+bool isWin = true;
 
 int macmail() {
-    // Path to the file you want to attach
-    std::string filePath = "/path/to/your/file.txt";
-
-    std::string subject = "love letter";
-    std::string body = "This is my love letter to you:";
-    // Construct the mailto command
-    // Note: macOS's mailto handler might not support direct file attachment through this method,
-    //       this will open a new email, but user might need to manually attach the file.
-    std::string command = "open 'mailto:?subject=" + subject + "&body=" + body + "'";
-
-    // Execute the command
-    int result = system(command.c_str());
-
-    if (result != 0) {
-        std::cerr << "Failed to open the mail application." << std::endl;
-        return 1;
-    }
+    system("open mailto:someone@example.com");
 
     return 0;
 }
@@ -41,19 +27,33 @@ int macmail() {
 
 
 int winmail() {
-     // Define the subject and body of the email
-    std::string subject = "Hello World";
-    std::string body = "This is a test email with ASCII art.";
-                       
-
-   // Construct the mailto link
-    std::string mailto_link = "mailto:someone@example.com?subject=" + subject + "&body=" + body + "'";
-
-    // Construct the command
-    std::string command = "start " + mailto_link;
-
-    // Execute the command
-    system(command.c_str());
+    system("start mailto:someone@example.com");
 
     return 0;
+}
+
+void sendMail(){
+ if (isWin == true) {
+        winmail();
+     
+    }
+    else {
+        macmail();
+
+        
+    }
+}
+
+void yesOrNo(){
+
+    std::string yorn;
+    std::cout << "Do you want to send the love letter? YES or NO:";
+    std::cin >> yorn;
+
+    if (yorn == "YES") {
+       sendMail();
+    }
+    else {
+        std::cout << "Okay, maybe next time!";
+    }
 }
