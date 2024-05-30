@@ -1,6 +1,6 @@
 //
 //  ascii.hpp
-//  ascii_mail
+//  Love_Letters_Mail
 //
 //  Created by Linda Maas on 30.05.24.
 //

@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		B5E587A12C08B3A2003AE9C4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B5E587A02C08B3A2003AE9C4 /* main.cpp */; };
+		B5E587A92C08B3D6003AE9C4 /* mail.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B5E587A72C08B3D6003AE9C4 /* mail.cpp */; };
+		B5E587AC2C08B417003AE9C4 /* ascii.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B5E587AA2C08B417003AE9C4 /* ascii.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,10 @@
 /* Begin PBXFileReference section */
 		B5E5879D2C08B3A2003AE9C4 /* ascii_mail */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ascii_mail; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5E587A02C08B3A2003AE9C4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B5E587A72C08B3D6003AE9C4 /* mail.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = mail.cpp; sourceTree = "<group>"; };
+		B5E587A82C08B3D6003AE9C4 /* mail.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = mail.hpp; sourceTree = "<group>"; };
+		B5E587AA2C08B417003AE9C4 /* ascii.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ascii.cpp; sourceTree = "<group>"; };
+		B5E587AB2C08B417003AE9C4 /* ascii.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ascii.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,10 @@
 		B5E5879F2C08B3A2003AE9C4 /* ascii_mail */ = {
 			isa = PBXGroup;
 			children = (
+				B5E587AA2C08B417003AE9C4 /* ascii.cpp */,
+				B5E587AB2C08B417003AE9C4 /* ascii.hpp */,
+				B5E587A72C08B3D6003AE9C4 /* mail.cpp */,
+				B5E587A82C08B3D6003AE9C4 /* mail.hpp */,
 				B5E587A02C08B3A2003AE9C4 /* main.cpp */,
 			);
 			path = ascii_mail;
@@ -119,6 +129,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5E587A92C08B3D6003AE9C4 /* mail.cpp in Sources */,
+				B5E587AC2C08B417003AE9C4 /* ascii.cpp in Sources */,
 				B5E587A12C08B3A2003AE9C4 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

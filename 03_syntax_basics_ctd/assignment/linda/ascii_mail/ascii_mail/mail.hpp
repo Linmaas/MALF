@@ -1,6 +1,6 @@
 //
 //  mail.hpp
-//  ascii_mail
+//  Love_Letters_Mail
 //
 //  Created by Linda Maas on 30.05.24.
 //
@@ -9,5 +9,6 @@
 #define mail_hpp
 
 #include <stdio.h>
-
+int macmail();
+int winmail();
 #endif /* mail_hpp */
