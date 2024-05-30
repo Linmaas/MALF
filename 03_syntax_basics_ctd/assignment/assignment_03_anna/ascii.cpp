@@ -11,35 +11,10 @@
 
 using namespace std;
 
-void lettersCombination()
+void heart(char letter)
 {
-    std::string username;
-    std::cout << "What's your name?";
-    std::cin >> username;
-
-    char firstLetterUsername = username[0]; // Accessing the first character
-
-    std::string lover;
-    std::cout << "What's the name of your lover?";
-    std::cin >> lover;
-
-    char firstLetterLover = lover[0];
-
-    // Create strings from individual characters
-    std::string combination = std::string(1, firstLetterUsername) + "+" + std::string(1, firstLetterLover);
-    std::cout << "Your combination: " << combination << std::endl;
-}
-
-int heart()
-{
-    std::string username;
-    std::cout << "What's your name? ";
-    std::cin >> username;
-
-    char firstLetterUsername = username[0]; // Accessing the first character
-
     // ASCII art for the heart shape with a placeholder for a character
-    const char *heart =
+    const char *heartUser =
         "     ******       ******     \n"
         "   **********   **********   \n"
         " ************* ************* \n"
@@ -61,7 +36,31 @@ int heart()
         "             ***             \n"
         "              *              \n";
 
-    printf(heart, firstLetterUsername); // Print the heart with the first letter inserted
+    printf(  heartUser,  letter); // Print the heart with the first letter inserted
 
-    return 0;
+
 }
+
+void lettersCombination()
+{
+    std::string username;
+    std::cout << "What's your name?";
+    std::cin >> username;
+
+    char firstLetterUsername = username[0]; // Accessing the first character
+
+    std::string lover;
+    std::cout << "What's the name of your lover?";
+    std::cin >> lover;
+
+    char firstLetterLover = lover[0];
+
+    // Print the heart ASCII art with the first letter of the username and lover side by side
+    heart(firstLetterUsername);
+    cout << "  ";
+    heart(firstLetterLover);
+    cout << endl;
+
+}
+
+

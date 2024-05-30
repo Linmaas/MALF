@@ -9,3 +9,4 @@
 using namespace std;
 
 void lettersCombination();
+void heart(char firstLetterUsername);
