@@ -5,6 +5,11 @@
 #include <thread>
 #include <chrono>
 
-#include "ascii.h"
+#include "mail.hpp"
+#include "ascii.hpp"
 
 using namespace std;
+
+std::vector<string> asciiArt = {
+       "This will be our Ascii Art"
+    };
