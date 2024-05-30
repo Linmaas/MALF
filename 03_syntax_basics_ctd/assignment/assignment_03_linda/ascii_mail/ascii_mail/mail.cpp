@@ -21,10 +21,12 @@ int macmail() {
     // Path to the file you want to attach
     std::string filePath = "/path/to/your/file.txt";
 
+    std::string subject = "love letter";
+    std::string body = "This is my love letter to you:";
     // Construct the mailto command
     // Note: macOS's mailto handler might not support direct file attachment through this method,
     //       this will open a new email, but user might need to manually attach the file.
-    std::string command = "open 'mailto:someone@example.com?subject=The Subject&body=See attached file'";
+    std::string command = "open 'mailto:?subject=" + subject + "&body=" + body + "'";
 
     // Execute the command
     int result = system(command.c_str());
