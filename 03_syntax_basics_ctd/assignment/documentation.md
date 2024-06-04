@@ -26,3 +26,6 @@ We also wanted to be able to save the ascii art from the console and attatch it 
 ## how we worked 
 
 We first tried to merge the branches we worked on, but our ides got so many conflicts that we had to start over again. For this project we worked together on one machine to get something done. We really need help with learning how to work together on windows/mac, since they use a very different file structure when a project is created through the ide. 
+
+
+![alt text](<Bildschirmfoto 2024-06-04 um 20.25.01.png>)
