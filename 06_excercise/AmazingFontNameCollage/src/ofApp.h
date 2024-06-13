@@ -1,6 +1,9 @@
 #pragma once
 
 #include "ofMain.h"
+#include "ofxGui.h"
+
+
 
 class ofApp : public ofBaseApp{
 
@@ -22,5 +25,14 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h) override;
 		void dragEvent(ofDragInfo dragInfo) override;
 		void gotMessage(ofMessage msg) override;
-		
+
+
+    ofxPanel gui;
+           ofxTextField nameInput1;
+
+           static const int MAX_NAME_LENGTH = 256;
+           char nameArray1[MAX_NAME_LENGTH]; // Fixed-size array
+
+           ofParameter<std::string> textInput1;
+    
 };
