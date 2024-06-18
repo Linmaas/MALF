@@ -30,8 +30,7 @@ class ofApp : public ofBaseApp{
     ofxPanel gui;
            ofxTextField nameInput1;
 
-           static const int MAX_NAME_LENGTH = 256;
-           char nameArray1[MAX_NAME_LENGTH]; // Fixed-size array
+           
 
            ofParameter<std::string> textInput1;
     

@@ -37,16 +37,11 @@ void ofApp::update(){
 void ofApp::draw(){
        gui.draw();
        
-       // Clear the array
-       memset(nameArray1, 0, sizeof(nameArray1));
+       
 
        // Get the string and copy up to MAX_NAME_LENGTH - 1 characters to ensure null termination
        std::string currentText = textInput1.get();
-       size_t copyLength = std::min(currentText.size(), static_cast<size_t>(MAX_NAME_LENGTH - 1));
-       strncpy(nameArray1, currentText.c_str(), copyLength);
-
-       // Optionally, display the content of the array for debugging
-       ofDrawBitmapString("Debugging Array of Letters: " + std::string(nameArray1), 100, 200);
+       
 }
 
 //--------------------------------------------------------------
