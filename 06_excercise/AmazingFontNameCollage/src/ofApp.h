@@ -22,5 +22,15 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h) override;
 		void dragEvent(ofDragInfo dragInfo) override;
 		void gotMessage(ofMessage msg) override;
+
+		std::string name;
+		std::vector<ofTrueTypeFont> fonts;
+		//int randomIndex;
+		// ofTrueTypeFont randomFont;
+		std::vector<int> characterFontIndices;
+		std::vector<int> characterSizes;
+		float x, y;
+		//int randomSize;
+		
 		
 };
