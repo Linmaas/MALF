@@ -26,7 +26,7 @@ void ofApp::setup(){
      // Add parameters to the panel
      gui.add(textInput1);
      //gui.add(textInput2);
-	name = "Anna";
+	name = currentText;
 	std::cout << name << endl;
 
 	// Load fonts with a consistent size (90 in this case)
@@ -54,52 +54,50 @@ void ofApp::setup(){
 		characterFontIndices.push_back(randomIndex);
 
 	}
-
+    
+        x = 100;
+        y = ofGetHeight() / 2;
 	
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
-
+    // Check if the current text has changed
+    if (currentText != textInput1.get()) {
+        currentText = textInput1.get();
+        name = currentText;  // Update the name to be drawn
+        updateFontIndices(); // Update font indices for new name
+    }
 }
 
 //--------------------------------------------------------------
+
+void ofApp::updateFontIndices() {
+    characterFontIndices.clear(); // Clear previous indices
+    for (size_t i = 0; i < name.size(); ++i) {
+        int randomIndex = static_cast<int>(ofRandom(0, fonts.size()));
+        characterFontIndices.push_back(randomIndex);
+    }
+}
+
+
+
+//--------------------------------------------------------------
 void ofApp::draw(){
-	
-	// ofBackground(255); // Clear background with white color
-		
-	for (int i = 0; i < name.size(); ++i) {
+    
+    
+    
 
-		char character = name[i];
+    gui.draw();
+     int localX = x; // Start position for drawing name
 
-		int randomIndex = characterFontIndices[i];						// Get the font for this character
-
-		//int randomSize = characterSizes[i];
-
-		ofTrueTypeFont& font = fonts[randomIndex];
-		
-		
-		font.drawString(ofToString(character), x, y);
-
-
-		
-		x += font.stringWidth(ofToString(character)) + 20;		// Move x position to the right for the next character
-																		// Adjust as needed based on font size and spacing
-		
-		
-	}
-
-	// Reset x position for the next frame (if needed)
-	 x = ofGetWidth()/2 - 250;
-	 y = ofGetHeight()/2;
-
-
-       gui.draw();
+     for (size_t i = 0; i < name.size(); ++i) {
+         char character = name[i];
+         ofTrueTypeFont& font = fonts[characterFontIndices[i]];
+         font.drawString(ofToString(character), localX, y);
+         localX += font.stringWidth(ofToString(character)) + 20; // Increment x position
+     }
        
-       
-
-       // Get the string and copy up to MAX_NAME_LENGTH - 1 characters to ensure null termination
-       std::string currentText = textInput1.get();
        
 }
 

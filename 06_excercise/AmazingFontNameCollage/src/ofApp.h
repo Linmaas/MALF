@@ -8,6 +8,8 @@
 class ofApp : public ofBaseApp{
 
 	public:
+    
+    void updateFontIndices();
 		void setup() override;
 		void update() override;
 		void draw() override;
@@ -26,6 +28,8 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo) override;
 		void gotMessage(ofMessage msg) override;
 
+    
+        std::string currentText;
 		std::string name;
 		std::vector<ofTrueTypeFont> fonts;
 		//int randomIndex;
