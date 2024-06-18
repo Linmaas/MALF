@@ -30,15 +30,19 @@ void ofApp::setup(){
 	std::cout << name << endl;
 
 	// Load fonts with a consistent size (90 in this case)
-	ofTrueTypeFont font1, font2, font3, font4, font5, font6, font7;
-	font1.load("Pilowlava-Regular.otf", 150);
-	font2.load("Fungal-Grow600Thickness1000.ttf", 150);
-	font3.load("Lithops-Regular.ttf", 150);
-	font4.load("Mess-Light_web.ttf", 150);
-	font5.load("Ouvrieres-exploratrices.ttf", 150);
-	font6.load("Ouvrieres-rassasiees.ttf", 150);
-	font7.load("PicNic-Regular.otf", 150);
-	
+	ofTrueTypeFont font1, font2, font3, font4, font5, font6, font7, font8, font9, font10, font11, font12;
+	font1.load("Pilowlava-Regular.otf", 90);
+	font2.load("Fungal-Grow600Thickness1000.ttf", 90);
+	font3.load("Lithops-Regular.ttf", 90);
+	font4.load("Mess-Light_web.ttf", 90);
+	font5.load("Ouvrieres-exploratrices.ttf", 90);
+	font6.load("Ouvrieres-rassasiees.ttf", 90);
+	font7.load("PicNic-Regular.otf", 90);
+    font8.load("BBB_Invader_Regular.otf", 90);
+    font9.load("Ade-Display.otf", 90);
+    font10.load("GIDEON.otf", 90);
+    font11.load("Kelsi-fill (1).otf", 90);
+    font12.load("Retrogression-Regular.otf", 90);
 
 
 	fonts.push_back(font1);
@@ -48,6 +52,12 @@ void ofApp::setup(){
 	fonts.push_back(font5);
 	fonts.push_back(font6);
 	fonts.push_back(font7);
+    fonts.push_back(font8);
+    fonts.push_back(font9);
+    fonts.push_back(font10);
+    fonts.push_back(font11);
+    fonts.push_back(font12);
+    
 
 	for (int i = 0; i < name.size(); ++i) {									
 		int randomIndex = static_cast<int>(ofRandom(0, fonts.size()));			// Select a random font for each character in 'name' and store them
@@ -95,7 +105,7 @@ void ofApp::draw(){
          char character = name[i];
          ofTrueTypeFont& font = fonts[characterFontIndices[i]];
          font.drawString(ofToString(character), localX, y);
-         localX += font.stringWidth(ofToString(character)) + 20; // Increment x position
+         localX += font.stringWidth(ofToString(character)) + 10; // Increment x position
      }
        
        
