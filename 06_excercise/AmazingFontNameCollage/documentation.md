@@ -6,7 +6,7 @@ The idea was to create an application in which the user could write down a text 
 
 ### Git Hub Problems Solving 
 
-We had a lot of problems at the beginning with the windows/mac IDEs having different filetypes and folder structure. We forgot to add those to the git.ignore so we needed to do it through the console, which took us some time to figure out. We had some small merge conflicts, which we resolved after some time. 
+We had a lot of problems at the beginning with the windows/mac IDEs having different filetypes and folder structure. We forgot to add those to the git.ignore so we needed to do it through the console, which took us some time to figure out. We had some small merge conflicts, which we resolved after some time. HurraY
 
 ### Linda
 I set up the UI elements with the .gui library that comes with open frameworks. The user can enter text in an input field. If a change in text gets detected in the update function Annas part gets executed.
