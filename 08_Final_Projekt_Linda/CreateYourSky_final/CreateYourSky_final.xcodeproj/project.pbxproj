@@ -3,6 +3,130 @@
 	"classes": {},
 	"objectVersion": "54",
 	"objects": {
+		"012E2DCA-D0B2-4789-85D8-AF9EC81BA2D9": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "EdgePass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/EdgePass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"02C943DA-3875-4A5C-B191-4A8FDDF768FF": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ZoomBlurPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/ZoomBlurPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"04C05D44-1853-4EEC-9B6C-91EA786DD4F1": {
+			"fileRef": "C62F0A24-110F-483A-B632-9999E87C45C0",
+			"isa": "PBXBuildFile"
+		},
+		"051F6C63-20D7-4E7A-B0DE-27A767EAC5FA": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxPostProcessing.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/ofxPostProcessing.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"0619824D-DDEB-4243-90D1-F36A3DB3DAFB": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "parserInternals.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/parserInternals.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"0C67808D-6E03-4E9B-8901-5F58441FCE6C": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxThreadedImageLoader.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxThreadedImageLoader/src/ofxThreadedImageLoader.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"0CEBB5F0-B75B-4BA5-932D-5EE0AAFEBE1B": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HTMLparser.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/HTMLparser.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1011A9B8-DC78-41EE-8F49-78404CD1860A": {
+			"fileRef": "2B359E89-02B2-4A48-A477-746590116F96",
+			"isa": "PBXBuildFile"
+		},
+		"106108F8-B254-41CB-BE72-C396685CEE35": {
+			"fileRef": "E071DB4A-974A-40CF-BC3C-B1966898CD52",
+			"isa": "PBXBuildFile"
+		},
+		"1155E74C-6CE6-4735-A353-EF5ECD24F55A": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxSvg.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/src/ofxSvg.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1262BD3E-8D4B-4E8C-B5B0-D5ADC7855A4C": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "DofPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/DofPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"161DF506-3854-48A2-B384-22A8B881D4FB": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "chvalid.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/chvalid.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"16F83C35-A446-4A97-B170-55BD17C6DB2D": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlexports.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlexports.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1751C155-F2EC-413E-A69D-105543F56366": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "BleachBypassPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/BleachBypassPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"17A047B8-ED5C-4595-ADF0-77C3C1BB6B57": {
+			"fileRef": "185CA996-859C-4D8A-AB6D-BCA09675ACD8",
+			"isa": "PBXBuildFile"
+		},
+		"185CA996-859C-4D8A-AB6D-BCA09675ACD8": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "VerticalTiltShifPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/VerticalTiltShifPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"18A7BA83-D62F-46AE-BB22-07BB25D86BFF": {
+			"fileRef": "87967530-212A-4C55-B2E1-6453222CB6B9",
+			"isa": "PBXBuildFile"
+		},
+		"18C8BD1B-24AA-45FD-86FF-30E1224E82B4": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxUDPManager.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxUDPManager.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
 		"191CD6FA2847E21E0085CBB6": {
 			"fileEncoding": "4",
 			"isa": "PBXFileReference",
@@ -30,12 +154,1071 @@
 			"shellScript": "\"$OF_PATH/scripts/osx/xcode_project.sh\"\n",
 			"showEnvVarsInLog": "0"
 		},
+		"1A37FB19-0C84-42E0-A418-B9C91A37CDDA": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "Constellation.h",
+			"path": "src/Constellation.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1B090E16-7DCC-49C0-B559-CC0ECBCC3491": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "schematron.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/schematron.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1B511951-9EEA-4A41-A5B5-BDE756FDEAB2": {
+			"fileRef": "7B7C9472-6069-49D7-BAD6-590471C9B52A",
+			"isa": "PBXBuildFile"
+		},
+		"1C2B17FC-115F-4F27-904E-89BCB4FDDCE7": {
+			"children": [
+				"29CCB9A5-32DF-48A1-893B-62856AB9DD90",
+				"0CEBB5F0-B75B-4BA5-932D-5EE0AAFEBE1B",
+				"8D657ABD-87AB-4BA2-8496-93EB6899BA5C",
+				"3EFE845E-F440-4567-AF44-77C0197685EA",
+				"F191B6D5-979A-4959-963B-F873C6CAC72A",
+				"4C9D97A4-CA0A-4012-8162-CC0CAB0F6BD6",
+				"75831EAE-FAE3-4C9A-A78E-A43122B18753",
+				"161DF506-3854-48A2-B384-22A8B881D4FB",
+				"557ECACE-1837-449A-ADD4-4E1451CDA750",
+				"82EA1A76-B19A-466D-872D-605DEEC546AB",
+				"959BC561-D5ED-4A34-B2D0-AD76BACC2050",
+				"649852DC-2EEE-4D48-BA3B-9DECAB76ED62",
+				"A38604C7-62F2-4708-80B2-490D878D9F1F",
+				"32BD0798-0DD0-4AA5-B0F9-5170F4E0D5BA",
+				"7F63314A-9C4F-45E4-B3BE-586A2D39C785",
+				"ADED0023-A802-4A92-8546-CE80B68B8C63",
+				"C89F1696-D444-423D-8F3D-94129DDDABFC",
+				"C40812DE-A602-45CC-8FE8-F898C75C2E8B",
+				"0619824D-DDEB-4243-90D1-F36A3DB3DAFB",
+				"81AB137E-923D-46C7-BC88-6995457A04EC",
+				"3F8C8CEB-FB16-46FE-8E89-36E083C84398",
+				"6CF6C0EA-AF89-4B5C-A27C-966D9AC9B339",
+				"1B090E16-7DCC-49C0-B559-CC0ECBCC3491",
+				"EEA3651C-0E35-40B8-8F3A-F2028548A050",
+				"5081B7E1-48E0-481F-8C1B-ECB9BE0022FB",
+				"778CF3B4-2584-42B3-A1D1-15AB5643DE26",
+				"FEE5FAFF-605E-41E4-AA78-07A27FA9C89A",
+				"E68D79EF-3372-42A2-B5E1-B4B852E61AA1",
+				"D26E0F36-CB91-410C-AC22-16228AABA3FE",
+				"5A88CF0E-B8AE-43BB-AB7D-083B1716701C",
+				"5E2A30BB-CD61-46AD-A7FB-D4B632A70219",
+				"30ED7FCF-150C-4DAF-8806-BB196EBA67F8",
+				"16F83C35-A446-4A97-B170-55BD17C6DB2D",
+				"73B93F66-3C30-47DB-909B-F997C2264438",
+				"9D701911-F9F5-4DD6-9B9E-CE14817A3AE6",
+				"BCFF6C93-3D83-465C-8592-9C7E1F94A883",
+				"AB611FFC-27F1-45FD-BDA3-81C2D48A5CAB",
+				"E5435AE4-6A8A-4BBD-8536-33BD1EB8B5B4",
+				"4D7A5BCE-D8AA-45D9-9C42-D794823E44E0",
+				"FE32965C-42F8-401D-AF86-7E337390D569",
+				"CA4E8C94-329A-433A-8802-C013362DD2F4",
+				"2C9A1813-2459-4774-923F-4B32F90EC9B8",
+				"30952FEF-CDB0-4527-AF5B-BF5DB036B834",
+				"3B2D58B9-A0A0-4952-BBEE-AD8DAE9BB101",
+				"DFE89E3A-C4AA-4032-9462-E99048660858",
+				"D2DB3211-F1ED-4AE2-B670-55705C8DA0DB",
+				"7AC4B77A-7894-47B1-BF1E-79E71149C14F"
+			],
+			"isa": "PBXGroup",
+			"name": "libxml",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1C31EE0F-52C7-4629-BA65-BD4C4D1E65EB": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ConvolutionPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/ConvolutionPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1C568257-28E4-4205-8047-7278FC41690D": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "LUTPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/LUTPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1C9DD2A1-51FD-4676-8DA6-B8ED9B8F8036": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ContrastPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/ContrastPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1CDC8837-BA54-47B2-BE68-EBD65ACCE771": {
+			"children": [
+				"F49CB9D8-F815-41AC-9D57-849461AF5934"
+			],
+			"isa": "PBXGroup",
+			"name": "ofxPostProcessing-master",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1CF6982E-6BA6-4B48-8877-2C4627F361DF": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "BloomPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/BloomPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"1FCD07D0-D1C9-4ED0-8858-FFFA99B0BEA4": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "Meteor.cpp",
+			"path": "src/Meteor.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"22C04A70-24D1-4CA1-A1BD-9C9F50E4DF2D": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "GodRaysPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/GodRaysPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"28F77D36-D716-4259-BFEF-189389847E1D": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RGBShiftPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/RGBShiftPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"29CCB9A5-32DF-48A1-893B-62856AB9DD90": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "DOCBparser.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/DOCBparser.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2A3E8FDB-B63C-4341-8ECE-D0D1AF049586": {
+			"children": [
+				"6D024A7E-198C-4F99-B6BB-6090BA61AFD5",
+				"0C67808D-6E03-4E9B-8901-5F58441FCE6C"
+			],
+			"isa": "PBXGroup",
+			"name": "src",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2A569473-9B27-48EB-9FCA-5117AEA4A06F": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "FxaaPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/FxaaPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2AC01E47-51AD-44A4-9CAD-DABF1FF01BBB": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "StartScreen.cpp",
+			"path": "src/StartScreen.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2B359E89-02B2-4A48-A477-746590116F96": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "SSAOPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/SSAOPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2B5984C1-797F-4EE7-AC53-71AFF9FCF41D": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RGBShiftPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/RGBShiftPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2C9A1813-2459-4774-923F-4B32F90EC9B8": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlunicode.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlunicode.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2D717F8A-C366-44AF-97C8-96259199DC15": {
+			"fileRef": "B949F727-C775-48B4-84DC-8D16A6DB7FBF",
+			"isa": "PBXBuildFile"
+		},
+		"2D969B25-D351-454B-BF70-7D10CB1B3D8D": {
+			"fileRef": "420F752A-9DDB-4C72-9E7A-7FB0268972A0",
+			"isa": "PBXBuildFile"
+		},
+		"2EBA4EB0-573B-4CBE-AA90-76C6580C56C6": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxNetwork.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxNetwork.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"30952FEF-CDB0-4527-AF5B-BF5DB036B834": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlversion.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlversion.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"30CC8F1A-998A-42B4-B6B8-8AC1C3DB1B64": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxNetworkUtils.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxNetworkUtils.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"30ED7FCF-150C-4DAF-8806-BB196EBA67F8": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlerror.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlerror.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"30EF565F-CC96-41B6-85D6-6F8B7211AC5E": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "DofPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/DofPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"32BD0798-0DD0-4AA5-B0F9-5170F4E0D5BA": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "hash.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/hash.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"3B2D58B9-A0A0-4952-BBEE-AD8DAE9BB101": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlwriter.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlwriter.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"3EFE845E-F440-4567-AF44-77C0197685EA": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "SAX.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/SAX.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"3F8C8CEB-FB16-46FE-8E89-36E083C84398": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "relaxng.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/relaxng.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"40D7CC27-8471-4849-B0F2-B3A994B63630": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "FxaaPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/FxaaPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"41211D9A-5DFD-4661-A9FB-DF06A2545E13": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "VerticalTiltShifPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/VerticalTiltShifPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"420F752A-9DDB-4C72-9E7A-7FB0268972A0": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxUDPManager.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxUDPManager.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"4618202A-B0DB-4552-8B52-8DD2AA045C4A": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "LimbDarkeningPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/LimbDarkeningPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"484D959E-F184-4572-8C0A-B08AFCE38EFB": {
+			"children": [
+				"1C2B17FC-115F-4F27-904E-89BCB4FDDCE7"
+			],
+			"isa": "PBXGroup",
+			"name": "include",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"49BA97AE-7490-4264-8E58-8549CF0FE795": {
+			"fileRef": "2B5984C1-797F-4EE7-AC53-71AFF9FCF41D",
+			"isa": "PBXBuildFile"
+		},
+		"4C61715C-938B-430E-8482-E0A02FBED53C": {
+			"children": [
+				"A726EF01-A9E7-41BA-AC83-5AB798460B01",
+				"BD90ED18-CA52-41E5-A810-C8B636D73749"
+			],
+			"isa": "PBXGroup",
+			"name": "ofxSvg",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"4C9D97A4-CA0A-4012-8162-CC0CAB0F6BD6": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "c14n.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/c14n.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"4CBFD261-DCB8-416D-8294-65FD8575E3D9": {
+			"fileRef": "2AC01E47-51AD-44A4-9CAD-DABF1FF01BBB",
+			"isa": "PBXBuildFile"
+		},
+		"4D7A5BCE-D8AA-45D9-9C42-D794823E44E0": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlschemas.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlschemas.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5081B7E1-48E0-481F-8C1B-ECB9BE0022FB": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "tree.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/tree.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"51770417-B107-45F2-AAB9-A61A96FCE14A": {
+			"fileRef": "40D7CC27-8471-4849-B0F2-B3A994B63630",
+			"isa": "PBXBuildFile"
+		},
+		"53915E3C-E522-404E-AA14-3BA16F27698F": {
+			"fileRef": "A238B2CC-7335-406B-A3D0-E1978BC41942",
+			"isa": "PBXBuildFile"
+		},
+		"540DF2CA-428D-42F9-921D-C2AA5FF4B5AB": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxTCPManager.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxTCPManager.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5489DD44-4050-4F18-B7E7-9229A939F19F": {
+			"fileRef": "99855764-B1CA-4200-86EA-7DEDBBC65F60",
+			"isa": "PBXBuildFile"
+		},
+		"557ECACE-1837-449A-ADD4-4E1451CDA750": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "debugXML.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/debugXML.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"587F6332-2406-46D0-B909-FC4CA9B2AA69": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxTCPClient.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxTCPClient.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5880525F-80AC-41F9-9EF4-C7FEDD6D0109": {
+			"fileRef": "9A009172-3D6A-4E8B-A8BA-12FB5D4943ED",
+			"isa": "PBXBuildFile"
+		},
+		"59F7ACFD-6AE6-4659-BDD6-8B9B993C4C12": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "Star.cpp",
+			"path": "src/Star.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5A70C65E-E442-4573-8936-A019FC38CFBD": {
+			"fileRef": "F63EF070-E42C-483B-B346-DE2F2C35B162",
+			"isa": "PBXBuildFile"
+		},
+		"5A88CF0E-B8AE-43BB-AB7D-083B1716701C": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlIO.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlIO.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5A924997-CAE8-4041-A12C-0AD0375BA72B": {
+			"children": [
+				"C543D6DF-6579-4948-BBB9-3442F23EBF34"
+			],
+			"isa": "PBXGroup",
+			"name": "ofxNetwork",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5C43E513-4649-4FD1-998C-343F9EA175CF": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxTCPManager.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxTCPManager.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5E2A30BB-CD61-46AD-A7FB-D4B632A70219": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlautomata.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlautomata.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"6465BB39-329F-4D95-AFB7-7AB89A5CBCE9": {
+			"fileRef": "1C568257-28E4-4205-8047-7278FC41690D",
+			"isa": "PBXBuildFile"
+		},
+		"649852DC-2EEE-4D48-BA3B-9DECAB76ED62": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "entities.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/entities.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"689E6CC5-5369-442C-9150-9BC7BEB2E58B": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RimHighlightingPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/RimHighlightingPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"6CF6C0EA-AF89-4B5C-A27C-966D9AC9B339": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "schemasInternals.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/schemasInternals.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"6D024A7E-198C-4F99-B6BB-6090BA61AFD5": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxThreadedImageLoader.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxThreadedImageLoader/src/ofxThreadedImageLoader.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"6FBD0B26-2059-438D-A0BC-60E2D138F913": {
+			"fileRef": "D65989AA-CCCE-44F8-B710-E70B33A4E49A",
+			"isa": "PBXBuildFile"
+		},
+		"705D991F-1E23-4E82-BE2B-43EC882E7542": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "svgtiny.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/include/svgtiny.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"73B93F66-3C30-47DB-909B-F997C2264438": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlmemory.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlmemory.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"754B6B78-7E8A-4BD0-8165-B9597A350B91": {
+			"fileRef": "B5BA4507-1D8E-4D22-A81C-C7AE41A62BD0",
+			"isa": "PBXBuildFile"
+		},
+		"75831EAE-FAE3-4C9A-A78E-A43122B18753": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "catalog.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/catalog.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"75B3131D-13B3-4703-BE56-65572E37BD6D": {
+			"fileRef": "D7A8E92C-6232-4F09-9737-DE89822CE59D",
+			"isa": "PBXBuildFile"
+		},
+		"76CB5FF4-A0BA-4C05-95E1-C1C2BB4AA4DE": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "Particle.h",
+			"path": "src/Particle.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"775E3137-03B0-4AAC-9A83-9172B1DD28CA": {
+			"fileRef": "6D024A7E-198C-4F99-B6BB-6090BA61AFD5",
+			"isa": "PBXBuildFile"
+		},
+		"778CF3B4-2584-42B3-A1D1-15AB5643DE26": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "uri.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/uri.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"79A8E2EC-9AEA-4C5F-8FB6-6C29549FDE70": {
+			"fileRef": "59F7ACFD-6AE6-4659-BDD6-8B9B993C4C12",
+			"isa": "PBXBuildFile"
+		},
+		"7A1FFB81-C1ED-4BED-9E93-31998D0A03D2": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxUDPSettings.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxUDPSettings.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"7AC4B77A-7894-47B1-BF1E-79E71149C14F": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xpointer.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xpointer.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"7B7C9472-6069-49D7-BAD6-590471C9B52A": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxTCPServer.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxTCPServer.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"7E04608C-C2C0-420D-8F6C-50ABE8A0CD86": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HorizontalTiltShifPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/HorizontalTiltShifPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"7E20E16B-E980-408B-854D-0018066E4A5C": {
+			"children": [
+				"F5AD1FAD-5547-437F-952B-D5FFCBC9B23D"
+			],
+			"isa": "PBXGroup",
+			"name": "svgtiny",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"7F63314A-9C4F-45E4-B3BE-586A2D39C785": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "list.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/list.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"81AB137E-923D-46C7-BC88-6995457A04EC": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "pattern.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/pattern.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"82EA1A76-B19A-466D-872D-605DEEC546AB": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "dict.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/dict.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"873933AF-F0A6-471E-8DF5-11717745D0BD": {
+			"children": [
+				"484D959E-F184-4572-8C0A-B08AFCE38EFB"
+			],
+			"isa": "PBXGroup",
+			"name": "libxml2",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"87967530-212A-4C55-B2E1-6453222CB6B9": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "BloomPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/BloomPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"88560304-63EE-4FC6-9951-AEF2160F1CBF": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "PixelatePass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/PixelatePass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"89DBFBEF-76F6-4B67-A13B-555176C86BEE": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ConvolutionPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/ConvolutionPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"8CC0B41F-6C44-4D19-9FA9-4881DCCAD49C": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "DofAltPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/DofAltPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"8D657ABD-87AB-4BA2-8496-93EB6899BA5C": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HTMLtree.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/HTMLtree.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"8D763E5E-21E2-47C3-8E8B-AFA953F7EAAE": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HorizontalTiltShifPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/HorizontalTiltShifPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"92424FAD-981C-4F3E-993C-FB597A352C45": {
+			"fileRef": "CFFD7672-2D2F-4A24-AE18-13A384D2C6EE",
+			"isa": "PBXBuildFile"
+		},
+		"9514773B-9024-49D6-98DB-FDB8E58C2801": {
+			"fileRef": "88560304-63EE-4FC6-9951-AEF2160F1CBF",
+			"isa": "PBXBuildFile"
+		},
+		"959BC561-D5ED-4A34-B2D0-AD76BACC2050": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "encoding.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/encoding.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"97A7B5BF-F2E7-43E2-976F-896BB2402760": {
+			"fileRef": "C03C66E8-54F4-4996-AFCC-1EE8510E7474",
+			"isa": "PBXBuildFile"
+		},
+		"98678FFD-9947-4738-BC80-B4C628AB4378": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "Star.h",
+			"path": "src/Star.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"99855764-B1CA-4200-86EA-7DEDBBC65F60": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "Sound.cpp",
+			"path": "src/Sound.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9A009172-3D6A-4E8B-A8BA-12FB5D4943ED": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RenderPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/RenderPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9A1A10C9-4945-4D02-BBA4-D0BF744AE7F4": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "DofAltPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/DofAltPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9D637D8A-ECE3-4CB5-9EB9-24836D6B8E7B": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ContrastPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/ContrastPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9D701911-F9F5-4DD6-9B9E-CE14817A3AE6": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlmodule.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlmodule.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9DAEA4AC-444D-4E61-9D61-935414787114": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "PostProcessing.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/PostProcessing.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9DD7B6D2-DC83-4D8C-A0A9-E7F7AF0E6FBB": {
+			"fileRef": "587F6332-2406-46D0-B909-FC4CA9B2AA69",
+			"isa": "PBXBuildFile"
+		},
+		"9F80A1DB-3212-4946-82F0-74A3FB8D3C22": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "SSAOPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/SSAOPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9FA0CBE8-F64E-4B5B-A1AA-E4D0BDD3A02F": {
+			"fileRef": "1262BD3E-8D4B-4E8C-B5B0-D5ADC7855A4C",
+			"isa": "PBXBuildFile"
+		},
+		"A12DA61C-C320-4E2F-AEDA-5CEABE272293": {
+			"fileRef": "E5A8640D-B982-4D29-9EB4-69116D6A2A28",
+			"isa": "PBXBuildFile"
+		},
+		"A238B2CC-7335-406B-A3D0-E1978BC41942": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "LimbDarkeningPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/LimbDarkeningPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"A38604C7-62F2-4708-80B2-490D878D9F1F": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "globals.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/globals.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"A726EF01-A9E7-41BA-AC83-5AB798460B01": {
+			"children": [
+				"873933AF-F0A6-471E-8DF5-11717745D0BD",
+				"7E20E16B-E980-408B-854D-0018066E4A5C"
+			],
+			"isa": "PBXGroup",
+			"name": "libs",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"A8E79082-0291-4D27-8D15-B71320AC7D04": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "KaleidoscopePass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/KaleidoscopePass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"AB611FFC-27F1-45FD-BDA3-81C2D48A5CAB": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlregexp.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlregexp.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"ADED0023-A802-4A92-8546-CE80B68B8C63": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "nanoftp.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/nanoftp.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"AF040A95-54DA-42AC-B7CF-9C0EC7D6A9C9": {
+			"fileRef": "B2B8FD37-B4F4-4B37-8BC3-09BC771C060C",
+			"isa": "PBXBuildFile"
+		},
+		"B2B8FD37-B4F4-4B37-8BC3-09BC771C060C": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxSvg.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/src/ofxSvg.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"B2C874AB-1EA4-4D93-8C9C-2FCF3D1EF852": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "FakeSSSPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/FakeSSSPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"B5BA4507-1D8E-4D22-A81C-C7AE41A62BD0": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "FakeSSSPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/FakeSSSPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"B949F727-C775-48B4-84DC-8D16A6DB7FBF": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ToonPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/ToonPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"B9CA07B5-8F3A-449F-B5F5-9F3AFF013868": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ToonPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/ToonPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"BA71C21E-E686-4181-8335-2BA6515B8A0B": {
+			"fileRef": "02C943DA-3875-4A5C-B191-4A8FDDF768FF",
+			"isa": "PBXBuildFile"
+		},
+		"BA858001-320F-4261-9192-CC1B6D103416": {
+			"children": [
+				"2A3E8FDB-B63C-4341-8ECE-D0D1AF049586"
+			],
+			"isa": "PBXGroup",
+			"name": "ofxThreadedImageLoader",
+			"sourceTree": "SOURCE_ROOT"
+		},
 		"BB4B014C10F69532006C3DED": {
-			"children": [],
+			"children": [
+				"5A924997-CAE8-4041-A12C-0AD0375BA72B",
+				"1CDC8837-BA54-47B2-BE68-EBD65ACCE771",
+				"4C61715C-938B-430E-8482-E0A02FBED53C",
+				"BA858001-320F-4261-9192-CC1B6D103416"
+			],
 			"isa": "PBXGroup",
 			"name": "addons",
 			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons",
 			"sourceTree": "<group>"
+		},
+		"BB504D57-C7CD-4985-9C3E-7432B9BE719A": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "PixelatePass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/PixelatePass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"BCFF6C93-3D83-465C-8592-9C7E1F94A883": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlreader.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlreader.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"BD90ED18-CA52-41E5-A810-C8B636D73749": {
+			"children": [
+				"B2B8FD37-B4F4-4B37-8BC3-09BC771C060C",
+				"1155E74C-6CE6-4735-A353-EF5ECD24F55A"
+			],
+			"isa": "PBXGroup",
+			"name": "src",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"BEDED594-2B16-4AF4-BB21-CEB6A7ED1AEF": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "Meteor.h",
+			"path": "src/Meteor.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"C03C66E8-54F4-4996-AFCC-1EE8510E7474": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "PostProcessing.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/PostProcessing.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"C40812DE-A602-45CC-8FE8-F898C75C2E8B": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "parser.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/parser.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"C543D6DF-6579-4948-BBB9-3442F23EBF34": {
+			"children": [
+				"2EBA4EB0-573B-4CBE-AA90-76C6580C56C6",
+				"E5A8640D-B982-4D29-9EB4-69116D6A2A28",
+				"30CC8F1A-998A-42B4-B6B8-8AC1C3DB1B64",
+				"587F6332-2406-46D0-B909-FC4CA9B2AA69",
+				"D0CA4D7F-E060-41D8-951F-DDBAD4EB8C55",
+				"540DF2CA-428D-42F9-921D-C2AA5FF4B5AB",
+				"5C43E513-4649-4FD1-998C-343F9EA175CF",
+				"7B7C9472-6069-49D7-BAD6-590471C9B52A",
+				"FFBA1E14-F916-42B1-A182-D2095093210F",
+				"E7C864BA-DA85-4851-A354-5EDAD8B39794",
+				"420F752A-9DDB-4C72-9E7A-7FB0268972A0",
+				"18C8BD1B-24AA-45FD-86FF-30E1224E82B4",
+				"7A1FFB81-C1ED-4BED-9E93-31998D0A03D2"
+			],
+			"isa": "PBXGroup",
+			"name": "src",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"C62F0A24-110F-483A-B632-9999E87C45C0": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "EdgePass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/EdgePass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"C89F1696-D444-423D-8F3D-94129DDDABFC": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "nanohttp.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/nanohttp.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"CA4E8C94-329A-433A-8802-C013362DD2F4": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlstring.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlstring.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"CE1AE3DB-86DE-4191-A76A-E6483E64F6AA": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "BleachBypassPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/BleachBypassPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"CE51BA2A-7046-4A1F-B256-243149D6A842": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "StartScreen.h",
+			"path": "src/StartScreen.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"CFFD7672-2D2F-4A24-AE18-13A384D2C6EE": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "KaleidoscopePass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/KaleidoscopePass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D0CA4D7F-E060-41D8-951F-DDBAD4EB8C55": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxTCPClient.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxTCPClient.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D26E0F36-CB91-410C-AC22-16228AABA3FE": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xlink.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xlink.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D2DB3211-F1ED-4AE2-B670-55705C8DA0DB": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xpathInternals.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xpathInternals.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D65989AA-CCCE-44F8-B710-E70B33A4E49A": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "GodRaysPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/GodRaysPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D7A8E92C-6232-4F09-9737-DE89822CE59D": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HsbShiftPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/HsbShiftPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D8E77699-BB59-456F-AB40-EAE3F47BA007": {
+			"fileRef": "8D763E5E-21E2-47C3-8E8B-AFA953F7EAAE",
+			"isa": "PBXBuildFile"
+		},
+		"DA19B23F-D624-491C-A39C-838A1F5060A2": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "NoiseWarpPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/NoiseWarpPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"DBB6BF3B-8996-4486-8F2A-D5BA402DC319": {
+			"fileRef": "1C9DD2A1-51FD-4676-8DA6-B8ED9B8F8036",
+			"isa": "PBXBuildFile"
+		},
+		"DFB6F86F-604C-4A3D-84DB-11329E1F6254": {
+			"fileRef": "DA19B23F-D624-491C-A39C-838A1F5060A2",
+			"isa": "PBXBuildFile"
+		},
+		"DFE89E3A-C4AA-4032-9462-E99048660858": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xpath.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xpath.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E071DB4A-974A-40CF-BC3C-B1966898CD52": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "Constellation.cpp",
+			"path": "src/Constellation.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E37A95C4-9EE4-48A7-9B9A-26BFA96ECA06": {
+			"fileRef": "540DF2CA-428D-42F9-921D-C2AA5FF4B5AB",
+			"isa": "PBXBuildFile"
 		},
 		"E42962A92163ECCD00A6A9E2": {
 			"alwaysOutOfDate": "1",
@@ -138,7 +1321,44 @@
 			"buildActionMask": "2147483647",
 			"files": [
 				"E4B69E200A3A1BDC003C02F2",
-				"E4B69E210A3A1BDC003C02F2"
+				"E4B69E210A3A1BDC003C02F2",
+				"106108F8-B254-41CB-BE72-C396685CEE35",
+				"EE7A06AF-1371-4687-B116-EB9A5967E29E",
+				"5489DD44-4050-4F18-B7E7-9229A939F19F",
+				"79A8E2EC-9AEA-4C5F-8FB6-6C29549FDE70",
+				"4CBFD261-DCB8-416D-8294-65FD8575E3D9",
+				"A12DA61C-C320-4E2F-AEDA-5CEABE272293",
+				"9DD7B6D2-DC83-4D8C-A0A9-E7F7AF0E6FBB",
+				"E37A95C4-9EE4-48A7-9B9A-26BFA96ECA06",
+				"1B511951-9EEA-4A41-A5B5-BDE756FDEAB2",
+				"2D969B25-D351-454B-BF70-7D10CB1B3D8D",
+				"FB2CB3EC-61C7-4044-AAD4-84CFB8ABF11B",
+				"18A7BA83-D62F-46AE-BB22-07BB25D86BFF",
+				"DBB6BF3B-8996-4486-8F2A-D5BA402DC319",
+				"F04C248E-F117-468D-A0B7-36F264781B67",
+				"EA532C72-C5AC-4817-B219-1FFE410C0FAF",
+				"9FA0CBE8-F64E-4B5B-A1AA-E4D0BDD3A02F",
+				"04C05D44-1853-4EEC-9B6C-91EA786DD4F1",
+				"754B6B78-7E8A-4BD0-8165-B9597A350B91",
+				"51770417-B107-45F2-AAB9-A61A96FCE14A",
+				"6FBD0B26-2059-438D-A0BC-60E2D138F913",
+				"D8E77699-BB59-456F-AB40-EAE3F47BA007",
+				"75B3131D-13B3-4703-BE56-65572E37BD6D",
+				"92424FAD-981C-4F3E-993C-FB597A352C45",
+				"6465BB39-329F-4D95-AFB7-7AB89A5CBCE9",
+				"53915E3C-E522-404E-AA14-3BA16F27698F",
+				"DFB6F86F-604C-4A3D-84DB-11329E1F6254",
+				"9514773B-9024-49D6-98DB-FDB8E58C2801",
+				"97A7B5BF-F2E7-43E2-976F-896BB2402760",
+				"49BA97AE-7490-4264-8E58-8549CF0FE795",
+				"5880525F-80AC-41F9-9EF4-C7FEDD6D0109",
+				"5A70C65E-E442-4573-8936-A019FC38CFBD",
+				"1011A9B8-DC78-41EE-8F49-78404CD1860A",
+				"2D717F8A-C366-44AF-97C8-96259199DC15",
+				"17A047B8-ED5C-4595-ADF0-77C3C1BB6B57",
+				"BA71C21E-E686-4181-8335-2BA6515B8A0B",
+				"AF040A95-54DA-42AC-B7CF-9C0EC7D6A9C9",
+				"775E3137-03B0-4AAC-9A83-9172B1DD28CA"
 			],
 			"isa": "PBXSourcesBuildPhase",
 			"runOnlyForDeploymentPostprocessing": "0"
@@ -192,13 +1412,34 @@
 				"GCC_DYNAMIC_NO_PIC": "NO",
 				"HEADER_SEARCH_PATHS": [
 					"$(OF_CORE_HEADERS)",
-					"src"
+					"src",
+					"src",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/emscripten",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/license",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/include",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/emscripten",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/license",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/src",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxThreadedImageLoader/src"
 				],
 				"LIBRARY_SEARCH_PATHS": "$(inherited)",
 				"OTHER_LDFLAGS": [
 					"$(OF_CORE_LIBS)",
 					"$(OF_CORE_FRAMEWORKS)",
-					"$(LIB_OF_DEBUG)"
+					"$(LIB_OF_DEBUG)",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx/svgtiny.a",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx/xml2.a"
 				]
 			},
 			"isa": "XCBuildConfiguration",
@@ -212,13 +1453,34 @@
 				"FRAMEWORK_SEARCH_PATHS": "$(inherited)",
 				"HEADER_SEARCH_PATHS": [
 					"$(OF_CORE_HEADERS)",
-					"src"
+					"src",
+					"src",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/emscripten",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/license",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/include",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/emscripten",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/license",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/src",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxThreadedImageLoader/src"
 				],
 				"LIBRARY_SEARCH_PATHS": "$(inherited)",
 				"OTHER_LDFLAGS": [
 					"$(OF_CORE_LIBS)",
 					"$(OF_CORE_FRAMEWORKS)",
-					"$(LIB_OF)"
+					"$(LIB_OF)",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx/svgtiny.a",
+					"/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx/xml2.a"
 				],
 				"baseConfigurationReference": "E4EB6923138AFD0F00A09F29"
 			},
@@ -229,7 +1491,18 @@
 			"children": [
 				"E4B69E1D0A3A1BDC003C02F2",
 				"E4B69E1E0A3A1BDC003C02F2",
-				"E4B69E1F0A3A1BDC003C02F2"
+				"E4B69E1F0A3A1BDC003C02F2",
+				"E071DB4A-974A-40CF-BC3C-B1966898CD52",
+				"1A37FB19-0C84-42E0-A418-B9C91A37CDDA",
+				"1FCD07D0-D1C9-4ED0-8858-FFFA99B0BEA4",
+				"BEDED594-2B16-4AF4-BB21-CEB6A7ED1AEF",
+				"76CB5FF4-A0BA-4C05-95E1-C1C2BB4AA4DE",
+				"99855764-B1CA-4200-86EA-7DEDBBC65F60",
+				"E9CECD67-3D59-426A-A45A-0ECD16862AFE",
+				"59F7ACFD-6AE6-4659-BDD6-8B9B993C4C12",
+				"98678FFD-9947-4738-BC80-B4C628AB4378",
+				"2AC01E47-51AD-44A4-9CAD-DABF1FF01BBB",
+				"CE51BA2A-7046-4A1F-B256-243149D6A842"
 			],
 			"isa": "PBXGroup",
 			"path": "src",
@@ -274,6 +1547,14 @@
 			"path": "openFrameworks-Info.plist",
 			"sourceTree": "<group>"
 		},
+		"E4B91999-4E93-4D48-A514-041E46DB4885": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RenderPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/RenderPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
 		"E4C2427710CC5ABF004149E2": {
 			"buildActionMask": "2147483647",
 			"dstPath": "",
@@ -288,6 +1569,208 @@
 			"lastKnownFileType": "text.xcconfig",
 			"path": "Project.xcconfig",
 			"sourceTree": "<group>"
+		},
+		"E5435AE4-6A8A-4BBD-8536-33BD1EB8B5B4": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlsave.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlsave.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E5A8640D-B982-4D29-9EB4-69116D6A2A28": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxNetworkUtils.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxNetworkUtils.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E68D79EF-3372-42A2-B5E1-B4B852E61AA1": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xinclude.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xinclude.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E7C864BA-DA85-4851-A354-5EDAD8B39794": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxTCPSettings.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxTCPSettings.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E9CECD67-3D59-426A-A45A-0ECD16862AFE": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "Sound.h",
+			"path": "src/Sound.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"EA0A7850-10B7-432A-87D6-EF3FA71DE128": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "LUTPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/LUTPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"EA532C72-C5AC-4817-B219-1FFE410C0FAF": {
+			"fileRef": "9A1A10C9-4945-4D02-BBA4-D0BF744AE7F4",
+			"isa": "PBXBuildFile"
+		},
+		"EBE33839-9C34-4910-9C98-4E378E097D7A": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "NoiseWarpPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/NoiseWarpPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"EC92B3AE-9E70-4FD1-81C1-51894DE47FE9": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HsbShiftPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/HsbShiftPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"EE7A06AF-1371-4687-B116-EB9A5967E29E": {
+			"fileRef": "1FCD07D0-D1C9-4ED0-8858-FFFA99B0BEA4",
+			"isa": "PBXBuildFile"
+		},
+		"EEA3651C-0E35-40B8-8F3A-F2028548A050": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "threads.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/threads.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"F04C248E-F117-468D-A0B7-36F264781B67": {
+			"fileRef": "89DBFBEF-76F6-4B67-A13B-555176C86BEE",
+			"isa": "PBXBuildFile"
+		},
+		"F191B6D5-979A-4959-963B-F873C6CAC72A": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "SAX2.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/SAX2.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"F49CB9D8-F815-41AC-9D57-849461AF5934": {
+			"children": [
+				"CE1AE3DB-86DE-4191-A76A-E6483E64F6AA",
+				"1751C155-F2EC-413E-A69D-105543F56366",
+				"87967530-212A-4C55-B2E1-6453222CB6B9",
+				"1CF6982E-6BA6-4B48-8877-2C4627F361DF",
+				"1C9DD2A1-51FD-4676-8DA6-B8ED9B8F8036",
+				"9D637D8A-ECE3-4CB5-9EB9-24836D6B8E7B",
+				"89DBFBEF-76F6-4B67-A13B-555176C86BEE",
+				"1C31EE0F-52C7-4629-BA65-BD4C4D1E65EB",
+				"9A1A10C9-4945-4D02-BBA4-D0BF744AE7F4",
+				"8CC0B41F-6C44-4D19-9FA9-4881DCCAD49C",
+				"1262BD3E-8D4B-4E8C-B5B0-D5ADC7855A4C",
+				"30EF565F-CC96-41B6-85D6-6F8B7211AC5E",
+				"C62F0A24-110F-483A-B632-9999E87C45C0",
+				"012E2DCA-D0B2-4789-85D8-AF9EC81BA2D9",
+				"B5BA4507-1D8E-4D22-A81C-C7AE41A62BD0",
+				"B2C874AB-1EA4-4D93-8C9C-2FCF3D1EF852",
+				"40D7CC27-8471-4849-B0F2-B3A994B63630",
+				"2A569473-9B27-48EB-9FCA-5117AEA4A06F",
+				"D65989AA-CCCE-44F8-B710-E70B33A4E49A",
+				"22C04A70-24D1-4CA1-A1BD-9C9F50E4DF2D",
+				"8D763E5E-21E2-47C3-8E8B-AFA953F7EAAE",
+				"7E04608C-C2C0-420D-8F6C-50ABE8A0CD86",
+				"D7A8E92C-6232-4F09-9737-DE89822CE59D",
+				"EC92B3AE-9E70-4FD1-81C1-51894DE47FE9",
+				"CFFD7672-2D2F-4A24-AE18-13A384D2C6EE",
+				"A8E79082-0291-4D27-8D15-B71320AC7D04",
+				"1C568257-28E4-4205-8047-7278FC41690D",
+				"EA0A7850-10B7-432A-87D6-EF3FA71DE128",
+				"A238B2CC-7335-406B-A3D0-E1978BC41942",
+				"4618202A-B0DB-4552-8B52-8DD2AA045C4A",
+				"DA19B23F-D624-491C-A39C-838A1F5060A2",
+				"EBE33839-9C34-4910-9C98-4E378E097D7A",
+				"88560304-63EE-4FC6-9951-AEF2160F1CBF",
+				"BB504D57-C7CD-4985-9C3E-7432B9BE719A",
+				"C03C66E8-54F4-4996-AFCC-1EE8510E7474",
+				"9DAEA4AC-444D-4E61-9D61-935414787114",
+				"2B5984C1-797F-4EE7-AC53-71AFF9FCF41D",
+				"28F77D36-D716-4259-BFEF-189389847E1D",
+				"9A009172-3D6A-4E8B-A8BA-12FB5D4943ED",
+				"E4B91999-4E93-4D48-A514-041E46DB4885",
+				"F63EF070-E42C-483B-B346-DE2F2C35B162",
+				"689E6CC5-5369-442C-9150-9BC7BEB2E58B",
+				"2B359E89-02B2-4A48-A477-746590116F96",
+				"9F80A1DB-3212-4946-82F0-74A3FB8D3C22",
+				"B949F727-C775-48B4-84DC-8D16A6DB7FBF",
+				"B9CA07B5-8F3A-449F-B5F5-9F3AFF013868",
+				"185CA996-859C-4D8A-AB6D-BCA09675ACD8",
+				"41211D9A-5DFD-4661-A9FB-DF06A2545E13",
+				"02C943DA-3875-4A5C-B191-4A8FDDF768FF",
+				"F546FF74-3CFF-4890-97A3-47B97B9DD3CB",
+				"051F6C63-20D7-4E7A-B0DE-27A767EAC5FA"
+			],
+			"isa": "PBXGroup",
+			"name": "src",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"F546FF74-3CFF-4890-97A3-47B97B9DD3CB": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ZoomBlurPass.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/ZoomBlurPass.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"F5AD1FAD-5547-437F-952B-D5FFCBC9B23D": {
+			"children": [
+				"705D991F-1E23-4E82-BE2B-43EC882E7542"
+			],
+			"isa": "PBXGroup",
+			"name": "include",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"F63EF070-E42C-483B-B346-DE2F2C35B162": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "RimHighlightingPass.cpp",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxPostProcessing-master/src/RimHighlightingPass.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"FB2CB3EC-61C7-4044-AAD4-84CFB8ABF11B": {
+			"fileRef": "CE1AE3DB-86DE-4191-A76A-E6483E64F6AA",
+			"isa": "PBXBuildFile"
+		},
+		"FE32965C-42F8-401D-AF86-7E337390D569": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlschemastypes.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlschemastypes.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"FEE5FAFF-605E-41E4-AA78-07A27FA9C89A": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "valid.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/valid.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"FFBA1E14-F916-42B1-A182-D2095093210F": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxTCPServer.h",
+			"path": "/Users/lindamaas/Documents/Master/Semester_2/CC2/developer/openFrameworks/of_v0.12.0_osx_release/addons/ofxNetwork/src/ofxTCPServer.h",
+			"sourceTree": "SOURCE_ROOT"
 		}
 	},
 	"openFrameworksProjectGeneratorVersion": "21",

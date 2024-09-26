@@ -1,0 +1,4 @@
+ofxNetwork
+ofxPostProcessing-master
+ofxSvg
+ofxThreadedImageLoader
