@@ -1,0 +1,9 @@
+﻿  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Skribbl.vcxproj -> C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\Skribbl\bin\Skribbl.exe
+  
+  	                   2	C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\fmod\lib\vs\x64\
+  	  *File supplementare		 6942208	C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\Skribbl\bin\FreeImage.dll
+  
+  	                   1	C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\FreeImage\lib\vs\x64\
+  	  *File supplementare		 1826304	C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\Skribbl\bin\fmod.dll
+  	  *File supplementare		 2041856	C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\Skribbl\bin\fmodL.dll

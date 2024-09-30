@@ -1,0 +1,89 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (obj\x64\Debug\) contains files shared from another project (Skribbl.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  ofApp.cpp
+  ofGameState.cpp
+  ofPlayers.cpp
+  ofUI.cpp
+  ofWord.cpp
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofGameState.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofGameState.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofGameState.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofGameState.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofGameState.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofGameState.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofUI.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofUI.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofUI.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofUI.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofUI.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofUI.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofPlayers.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofPlayers.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofPlayers.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofPlayers.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofPlayers.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofPlayers.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofWord.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofWord.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofWord.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofWord.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofWord.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\openFrameworks\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofWord.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofGameState.cpp(6,5): error C2365: 'START_SCREEN': redefinition; previous definition was 'enumerator'
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofApp.h(11): message : see declaration of 'START_SCREEN'
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofGameState.cpp(7,5): error C2365: 'PLAYERS_SCREEN': redefinition; previous definition was 'enumerator'
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofApp.h(12): message : see declaration of 'PLAYERS_SCREEN'
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofGameState.cpp(8,2): error C2365: 'WORD_SCREEN': redefinition; previous definition was 'enumerator'
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofApp.h(15): message : see declaration of 'WORD_SCREEN'
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofGameState.cpp(9,2): error C2365: 'DRAW_SCREEN': redefinition; previous definition was 'enumerator'
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofApp.h(17): message : see declaration of 'DRAW_SCREEN'
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofGameState.cpp(10,2): error C2365: 'GUESSED_SCREEN': redefinition; previous definition was 'enumerator'
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofApp.h(18): message : see declaration of 'GUESSED_SCREEN'
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofPlayers.cpp(72,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofPlayers.cpp(73,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofUI.cpp(72,60): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofApp.cpp(224,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(674,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofPlayers.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(708): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int,TargetType&,int,int,const char(&)[1],unsigned __int64>(_Alloc &,_Objty *const ,int &&,TargetType &,int &&,int &&,const char (&)[1],unsigned __int64 &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<ofPlayer>,
+              _Ty=ofPlayer,
+              TargetType=float,
+              _Objty=ofPlayer
+          ] (compiling source file src\ofPlayers.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(713): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int,TargetType&,int,int,const char(&)[1],unsigned __int64>(_Alloc &,_Objty *const ,int &&,TargetType &,int &&,int &&,const char (&)[1],unsigned __int64 &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<ofPlayer>,
+              _Ty=ofPlayer,
+              TargetType=float,
+              _Objty=ofPlayer
+          ] (compiling source file src\ofPlayers.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(726): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<int,TargetType&,int,int,const char(&)[1],unsigned __int64>(int &&,TargetType &,int &&,int &&,const char (&)[1],unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=ofPlayer,
+              TargetType=float
+          ] (compiling source file src\ofPlayers.cpp)
+C:\Users\anna-\OneDrive\Immagini\Documenti\FilmUni\2 Term\CCII\MALF\08_Final_Projekt_Anna\SkribblLite\src\ofPlayers.cpp(71): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::emplace_back<int,float&,int,int,const char(&)[1],unsigned __int64>(int &&,float &,int &&,int &&,const char (&)[1],unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=ofPlayer
+          ]
